@@ -41,9 +41,6 @@ Website available soon.
 - Launch website
 - ...
 
-## Author
-
-FranckNdame, franck.mpouli@yahoo.com
 
 ## Contributing
 
